@@ -31,9 +31,9 @@ public class SistemaDeControlDeVuelo {
 
     }
     public void mostrarSistema(){
-        System.out.println("Marca :"+fabricante);
-        System.out.println("Caballos de fuerza :"+numeroModos);
-        System.out.println("Empuje:"+tipoSistema);
+        System.out.println("Fabricante :"+fabricante);
+        System.out.println("Numero modos :"+numeroModos);
+        System.out.println("Tipo sistema:"+tipoSistema);
 
     }
    }

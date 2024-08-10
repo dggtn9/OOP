@@ -13,6 +13,19 @@ public class MainAvion {
         Avion avion1 = new Avion("Ford","xhv",44,ala,true,motor,sistema);
         Avion avion2 = new Avion("YUYU","xhy",46,ala2,false,motor,sistema);
 
+        ala.asignarEnvergadura(25);
+        ala2.asignarEnvergadura(35);
+        ala.cambiarColor("rojo");
+        ala2.cambiarColor("verde");
+        ala.asignarMaterial("aluminio");
+        ala2.asignarMaterial("concreto");
+
+
+        motor.asignarMarca("vhc");
+        motor.asignarCaballosFuerza(1235);
+
+        sistema.cambiarModo("manual");
+        sistema.asignarFabricante("USA");
 
 
         System.out.println("AVION 1");
