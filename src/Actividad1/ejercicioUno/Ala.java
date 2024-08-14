@@ -1,4 +1,4 @@
-package ejercicioUno;
+package Actividad1.ejercicioUno;
 
 public class Ala {
     private String color;

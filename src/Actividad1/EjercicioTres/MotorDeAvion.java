@@ -1,4 +1,4 @@
-package EjercicioTres;
+package Actividad1.EjercicioTres;
 
 public class MotorDeAvion {
     String marca;

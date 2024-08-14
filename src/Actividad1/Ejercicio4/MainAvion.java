@@ -1,8 +1,8 @@
-package Ejercicio4;
+package Actividad1.Ejercicio4;
 
-import EjercicioTres.MotorDeAvion;
-import ejercicioUno.Ala;
-import EjercicioDos.SistemaDeControlDeVuelo;
+import Actividad1.EjercicioTres.MotorDeAvion;
+import Actividad1.ejercicioUno.Ala;
+import Actividad1.EjercicioDos.SistemaDeControlDeVuelo;
 
 public class MainAvion {
     public static void main(String[] args) {

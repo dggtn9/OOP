@@ -1,4 +1,4 @@
-package EjercicioDos;
+package Actividad1.EjercicioDos;
 
 public class SistemaDeControlDeVuelo {
     String fabricante;

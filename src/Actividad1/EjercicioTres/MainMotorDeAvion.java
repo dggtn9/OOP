@@ -1,4 +1,4 @@
-package EjercicioTres;
+package Actividad1.EjercicioTres;
 
 public class MainMotorDeAvion {
     public static void main(String[] args) {

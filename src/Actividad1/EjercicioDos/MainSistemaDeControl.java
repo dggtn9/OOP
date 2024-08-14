@@ -1,4 +1,4 @@
-package EjercicioDos;
+package Actividad1.EjercicioDos;
 
 public class MainSistemaDeControl {
     public static void main(String[] args){
